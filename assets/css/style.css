@@ -12,13 +12,13 @@ html, body {
 body {
     background-color: #fbf9f4;
     color: #004057;
-    background: url('images/wood.jpg') fixed;
+    background: url('./../images/wood.jpg') fixed;
     font-family: Ubuntu, Arial, sans-serif;
 }
 
 .header {
     background-color: #fff;
-    background: #fff url('images/stripe.png') repeat-x;
+    background: #fff url('./../images/stripe.png') repeat-x;
     margin-bottom: 40px;
     padding: 20px 0;
     position: relative;
@@ -31,7 +31,7 @@ body {
     bottom: -10px;
     height: 10px;
     width: 100%;
-    background: url('images/deco.png') repeat-x;
+    background: url('./../images/deco.png') repeat-x;
 }
 
 
